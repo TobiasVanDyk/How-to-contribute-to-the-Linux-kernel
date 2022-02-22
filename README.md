@@ -1,5 +1,5 @@
 # How-to-contribute-to-the-Linux-kernel (2005-2022)
-How to contribute to the Linux kernel - and (maybe) have your contribution stay in the Linux kernel for decades
+This is an example of how to contribute code to the Linux kernel - and (maybe) have your contribution then stay in the Linux kernel for decades.
 
 During 2005 I wanted to make a code contribution of any significance, to the Linux kernel (then at version 2.16.12), and ideally have that contribution stay there for some time.
 
