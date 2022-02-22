@@ -1,4 +1,4 @@
-# How-to-contribute-to-the-Linux-kernel
+# How-to-contribute-to-the-Linux-kernel (2005-2022)
 How to contribute to the Linux kernel - and (maybe) have your contribution stay in the Linux kernel for decades
 
 During 2005 I wanted to make a small contribution to the Linux kernel and ideally have the contribution stay there for a long time.
