@@ -19,9 +19,9 @@ As mentioned above, currently (February 2022) the card is identified as number 8
 
 And there it was, even though it was only a few code lines addition I could still say "that" section of code was in part due to my effort. 
 
-Part of my communication from 2005 with Peter Missel is included in [**comms.txt**](comms.txt), and the kernel 2.16.x source from that time in [**kernel 2.16.12**](kernel2-16-12).
+Part of my communication from 2005 with Peter Missel is included in [**comms.txt**](comms.txt), and the kernel 2.16.x source from that time in [**kernel 2.16.12**](kernel-2-16-12).
  
-The lines of interest in saa7134-cards.c [**2005**](kernel2-16-12/saa7134-cards.c) [**2022**](saa7134-cards.c) are:
+The lines of interest in saa7134-cards.c [**2005**](kernel-2-16-12/saa7134-cards.c) [**2022**](saa7134-cards.c) are:
 ```
 {
 		.vendor       = PCI_VENDOR_ID_PHILIPS,
