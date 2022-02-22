@@ -19,4 +19,16 @@ As mentioned above, currently (February 2022) the card is identified as number 8
 
 And there it was, even though it was only a few code lines addition I could still say "that" section of code was in part due to my effort. 
 
-Part of my communication from 2005 with Peter Missel is included in [**comms.txt**](comms.txt), and the kernel 2.16.x source from that time in [**kernel 2.16.2.12**](kernel2-16-2-12) .
+Part of my communication from 2005 with Peter Missel is included in [**comms.txt**](comms.txt), and the kernel 2.16.x source from that time in [**kernel 2.16.2.12**](kernel2-16-2-12).
+ 
+The lines of intreset in saa7134-cards.c are:
+```
+{
+		.vendor       = PCI_VENDOR_ID_PHILIPS,
+		.device       = PCI_DEVICE_ID_PHILIPS_SAA7133,
+		.subvendor    = 0x1489, /* KYE */
+		.subdevice    = 0x0214, /* Genius VideoWonder ProTV */
+		.driver_data  = SAA7134_BOARD_FLYTVPLATINUM_FM, /* is an LR214WF actually */
+}
+```
+
