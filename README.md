@@ -9,7 +9,7 @@ Refer to [**card number 86 in the SAA7134 cards list**](https://www.kernel.org/d
 
 What I did is I tested a Genius PCI analog TV Tuner card which did not work under Linux at that time (April 2005).
 
-I then investigated the problem and with the guidance of a video4linux and kernel maintainer (Peter Missel), assisted in providing a solution. Peter Missel then submitted a patch request to the kernel maintainers using the GPIO, and subvendor  = 0x1489, /* KYE */ subdevice  = 0x0214, /* Genius VideoWonder ProTV */ configuration information provided. The GPIO section I used to identify the card is on the left of the card picture below.
+I then investigated the cause of the problem, and with the guidance of a video4linux and kernel maintainer (Peter Missel), assisted in providing a solution. Peter Missel then submitted a patch request to the kernel maintainers using the GPIO, and subvendor  = 0x1489, /* KYE */ subdevice  = 0x0214, /* Genius VideoWonder ProTV */ configuration information provided. The GPIO section I used to identify the card is on the left of the card picture below.
 
 <p align="left">
 <img src="images/GeniusVideoWonderProTV.jpg" width="350" /> 
