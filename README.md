@@ -21,7 +21,7 @@ And there it was, even though it was only a few code lines addition I could stil
 
 Part of my communication from 2005 with Peter Missel is included in [**comms.txt**](comms.txt), and the kernel 2.16.x source from that time is in [**kernel 2.16.12**](kernel-2-16-12).
  
-The lines of interest in saa7134-cards.c [**2005**](kernel-2-16-12/saa7134-cards.c) [**2022**](saa7134-cards.c) are:
+The code of interest in saa7134-cards.c [**2005**](kernel-2-16-12/saa7134-cards.c) and [**2022**](saa7134-cards.c) are:
 ```
 {
 		.vendor       = PCI_VENDOR_ID_PHILIPS,
