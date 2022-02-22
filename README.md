@@ -1,7 +1,7 @@
 # How-to-contribute-to-the-Linux-kernel (2005-2022)
 How to contribute to the Linux kernel - and (maybe) have your contribution stay in the Linux kernel for decades
 
-During 2005 I wanted to make a code contribution of any significance, to the Linux kernel, and ideally have that contribution stay there for some time.
+During 2005 I wanted to make a code contribution of any significance, to the Linux kernel (then at version 2.16.2), and ideally have that contribution stay there for some time.
 
 It is now 2022 and even though it is almost two decades later a traceable contribution to the 2005 kernel patch, is still part of the current 5.17 Linux kernel. 
 
