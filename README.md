@@ -5,7 +5,7 @@ During 2005 I wanted to make a code contribution of any significance, to the Lin
 
 It is now 2022 and even though it is almost two decades later a traceable contribution to the 2005 kernel patch, is still part of the current 5.17 Linux kernel. 
 
-Refer to [**card number 86 in the SAA7134 cards list**](https://www.kernel.org/doc/html/latest/admin-guide/media/saa7134-cardlist.html) and [**saa7134.h**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/media/pci/saa7134/saa7134.h), included in [**saa7134-cards.c**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/media/pci/saa7134/saa7134-cards.c), - these are all from the current Linux kernel source tree.
+Refer to [**card number 54 in the SAA7134 cards list**](https://www.kernel.org/doc/html/latest/admin-guide/media/saa7134-cardlist.html) (*54 LifeView FlyTV Platinum FM / Gold 5168:0214, 5168:5214, 1489:0214, 5168:0304*), and [**saa7134.h**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/media/pci/saa7134/saa7134.h), included in [**saa7134-cards.c**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/media/pci/saa7134/saa7134-cards.c), - these are all from the current Linux kernel source tree.
 
 What I did is I tested a Genius PCI analog TV Tuner card which did not work under Linux at that time (April 2005).
 
