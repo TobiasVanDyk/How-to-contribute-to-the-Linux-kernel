@@ -15,7 +15,7 @@ I then investigated the cause of the problem, and with the guidance of a video4l
 <img src="images/GeniusVideoWonderProTV.jpg" width="350" /> 
 <br>
 
-As mentioned above, currently (February 2022) the card is identified as number 86 LifeView FlyDVB-T / Genius VideoWonder DVB-T  5168:0301, 1489:0301 in the v4l CARDLIST.saa7134. 
+As mentioned above, currently (February 2022) the card is identified as number 54 LifeView FlyTV Platinum FM / Gold 5168:0214, 5168:5214, 1489:0214, 5168:0304 in the v4l CARDLIST.saa7134.
 
 And there it was, even though it was only a few code lines addition I could still say "that" section of code was in part due to my effort. 
 
